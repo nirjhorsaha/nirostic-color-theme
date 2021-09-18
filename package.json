@@ -1,0 +1,32 @@
+{
+    "name": "nirostic-color-theme",
+    "displayName": "Nirostic Color Theme",
+    "description": "This VS Code theme is for learning perpose!!!",
+    "version": "1.1.0",
+    "publisher": "NirjhorSaha",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "author": {
+        "name": "Nirjhor Saha"
+    },
+    "icon": "picture.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "nirjhor",
+        "nirostic theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nirostic Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nirostic Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
